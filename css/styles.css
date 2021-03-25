@@ -1,3 +1,13 @@
+:root {
+  --color-primary-200: #F3EED9;
+  --color-primary-400: #824936;
+  --color-neutral-100: #FFF;
+  --color-neutral-900: #222c2a;
+
+  --ff-primary: "Roboto", sans-serif;
+  --ff-accent: "Playfair Display", serif;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
