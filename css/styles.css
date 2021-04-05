@@ -18,6 +18,16 @@
   text-align: center;
 }
 
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.split > div {
+  margin: 0 0 0 2rem;
+}
+
 header {
   background-color: var(--color-primary-200);
   padding: 10rem 0;
