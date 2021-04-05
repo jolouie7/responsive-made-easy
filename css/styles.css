@@ -14,8 +14,11 @@
   margin: 0;
 }
 
+.text-center {
+  text-align: center;
+}
+
 header {
   background-color: var(--color-primary-200);
-  text-align: center;
   padding: 10rem 0;
 }
